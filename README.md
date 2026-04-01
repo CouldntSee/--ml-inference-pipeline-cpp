@@ -15,7 +15,7 @@ This repo integrates compiled C++ code with machine learning models (`.onnx`, `.
 ---
 
 ##  Project Structure
-pipelineCpp/ ┣ 📂 .vscode          # VSCode settings 
+pipelineCpp/ ┣  .vscode          # VSCode settings 
 ┣ hush.cpp / hush.exe # Example source & binary 
 ┣ main.cpp / main.exe # Entry point for inference 
 ┣ onnxruntime.dll     # ONNX Runtime library
@@ -26,14 +26,14 @@ pipelineCpp/ ┣ 📂 .vscode          # VSCode settings
 
 ---
 
-## ⚙️ Requirements
+##  Requirements
 - C++17 or later
 - ONNX Runtime (C++ API)
 - Python (for training scripts, optional)
 
 ---
 
-## 🛠 Build & Run
+##  Build & Run
 1. Clone the repo:
    ```bash
 2. git clone https://github.com/YourUsername/onnx-cpp-inference.git
