@@ -1,0 +1,27 @@
+﻿# Compiled binaries
+*.exe
+*.dll
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VSCode settings
+.vscode/
+
+# Model artifacts
+*.onnx
+*.pkl
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
